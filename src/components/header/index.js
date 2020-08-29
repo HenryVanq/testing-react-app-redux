@@ -8,7 +8,7 @@ const Header = (props) => {
       <div className="wrap">
         <div className="logo">
           <img data-test="logoIMG" src={Logo} alt="Logo" />
-          Header
+          {/* Header */}
         </div>
       </div>
     </header>
